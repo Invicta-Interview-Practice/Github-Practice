@@ -1,5 +1,7 @@
 This is from master branch
 
+this is from me - dalistaa
+
 Change from feature-something
 
 Test change in master file
